@@ -20,6 +20,17 @@
   
   Format: ![Alt Text](https://github.com/Gitesh445/COVID-ESSENTILAS/blob/gh-page/Screenshot%20(37).png)
   Format: ![Alt Text](https://github.com/Gitesh445/COVID-ESSENTILAS/blob/gh-page/Screenshot%20(39).png)
+
+
+# Tech/framework used
+   
+   
+    ## 1.Html-5
+    ## 2.Css
+    ## 3.Sass
+    ## 4.Javascript
+    ## 5.API Data
+  
   
     
     
